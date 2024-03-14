@@ -38,7 +38,7 @@ Ao final deve se exibir uma mensagem:
 
 # :bulb: Solução do desafio
 
-A solução se encontra no arquivo calculadoraPartidasRankeadas.j 
+A solução se encontra no arquivo calculadoraPartidasRankeadas.js
 
 - deve ser executada em um terminal  
-$node calculadoraPartidasRankeadas.j
+$node calculadoraPartidasRankeadas.js
